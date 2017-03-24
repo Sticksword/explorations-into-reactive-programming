@@ -9,3 +9,4 @@
 
 * Once you have a handle on what "Reactive Programming" is, you can try your luck doing same logic in another language. This repo provides examples of Reactive Programming in Java.
  * https://github.com/praveer09/rxjava-examples
+ * Java 8 streams: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
